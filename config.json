@@ -1,0 +1,12 @@
+{
+  "location": "New York",
+  "keyword": "Product Manager",
+  "country": "US",
+  "time_range": "Past month",
+  "job_type": "Full-time",
+  "experience_level": "Mid-Senior level",
+  "remote": "Hybrid",
+  "jobs_to_not_include": ["4267903356", "4271494891", "4277945862", "4267906118", "4255405781", "4267537560", "4245709356", "4265355147", "4277751182", "4256914967", "4281336197", "4232207277", "4273328527", "4277435772", "4253823512", "4279286518", "4224506933", "4250788498", "4256023955", "4252894407"],
+  "profile_summary": "Experienced product manager with 7 years in tech startups, specializing in agile methodologies and cross-functional team leadership.",
+  "desired_job_summary": "Looking for a full-time product manager role focusing on SaaS products and customer-centric development."
+}
